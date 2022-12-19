@@ -1,5 +1,3 @@
-# drf-auth
-
 # LAB - Class 28
 
 ## Project: Authentication & Production Server
