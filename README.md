@@ -8,7 +8,7 @@ Author: Ismail Alamir
 
 
 ### Setup
-## [Pull requests](https://github.com/IsmailAlamir/drf-auth/pull/3)
+## [Pull requests](https://github.com/IsmailAlamir/drf-auth/pull/1)
 
 
 #### run the server
